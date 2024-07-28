@@ -1,5 +1,29 @@
 {
   "dependencies": {
     "git-cz": "^4.9.0"
-  }
+  },
+  "name": "fantasyocean",
+  "description": "This is a website about selling or purchasing aquarium fish. Made with ReactJS and MongoDB.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoeruYouna/FantasyOcean.git"
+  },
+  "keywords": [
+    "FantasyOcean"
+  ],
+  "author": "Le Nguyen Hoai An",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoeruYouna/FantasyOcean/issues"
+  },
+  "homepage": "https://github.com/MoeruYouna/FantasyOcean#readme"
 }
